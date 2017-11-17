@@ -19,3 +19,6 @@ echo "| file   | Description |
 | [src](src) | *Source code goe here* |
 | [results](results) | *Results live here* |
 | [bin](bin) | *Executable code lives here* |" >> README.md
+
+
+#Created by Amy Goldlist, 2017
