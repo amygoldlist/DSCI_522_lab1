@@ -1,11 +1,13 @@
 
-Project Setup: Directory Structure
+## Project Setup: Directory Structure
+*Amy Goldlist, 2017*
 
 
 | file   | Description |
 |--------|-------------|
-| [README](README.md) |   Description         |
+| [README](README.md) |            |
 |[setup tool](project_setup.sh)| shell script for setting up file structure|
+|[LICENSE](LICENSE.md)| MIT license|
 
 You can use this tool on an empty folder, or an already created git repository.  *It will not create a root folder!*
 
